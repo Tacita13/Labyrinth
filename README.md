@@ -1,0 +1,2 @@
+# Labyrinth
+This program is designed as a labyrinth game with the minimum requirements of having a player that moves through the labyrinth, avoiding traps and colllecting items until he can get out  of the maze and win the game. The game embodies three layers Terminal, Screen and GUI Interface. As a whole it contains the majority of the most important variables, two classes, thirteen methods and the main
